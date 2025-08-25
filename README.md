@@ -1,4 +1,4 @@
-## 👩‍💻 Olá, me chamo **Renata Henriques**
+## 👩‍💻 Olá, me chamo **Renata**
 
 🎯 **Analista de Testes Júnior**  
 📚 Estudante de Análise e Desenvolvimento de Sistemas  

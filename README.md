@@ -14,7 +14,7 @@ Pretendo aprender e me aprofundar em **JavaScript** e **Python**, com foco na au
 
 ---
 
-##  O que estou estudando
+##   O que estou estudando
 
 - JavaScript (fundamentos e lógica de programação)  
 - Python (programação básica, automações e scripts)  

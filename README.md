@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
-Atualmente focada em tecnologia e atuando como Analista de Testes Júnior. Estou cursando **Análise e Desenvolvimento de Sistemas** e me dedicando para crescer ainda mais na área tech.
+Focada em tecnologia e atuando como Analista de Testes Júnior. Estou cursando **Análise e Desenvolvimento de Sistemas** e me dedicando para crescer ainda mais na área tech.
 
 Pretendo aprender e me aprofundar em **JavaScript** e **Python**, com foco na automação de testes, qualidade de software e desenvolvimento de soluções eficientes.
 
